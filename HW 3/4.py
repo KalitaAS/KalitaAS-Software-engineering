@@ -4,7 +4,6 @@ from bs4 import BeautifulSoup
 from collections import Counter
 import statistics
 
-# Парсинг XML файла
 def parse_xml_file(file_path):
     with open(file_path, "r", encoding="utf-8") as file:
         soup = BeautifulSoup(file, "xml")
