@@ -3,6 +3,7 @@ import os
 from bs4 import BeautifulSoup
 from collections import Counter
 
+# Сайт: https://ock.gammaural.ru/ . С него получила 40 файлов html.
 def extract_links_from_html(file_path):
     with open(file_path, 'r', encoding='utf-8') as f:
         html_content = f.read()
