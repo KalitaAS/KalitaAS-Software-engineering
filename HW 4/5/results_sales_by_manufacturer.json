@@ -1,0 +1,22 @@
+[
+  {
+    "manufacturer": "L'Oreal",
+    "total_sales": 6,
+    "total_revenue": 7600
+  },
+  {
+    "manufacturer": "Pantene",
+    "total_sales": 6,
+    "total_revenue": 5840
+  },
+  {
+    "manufacturer": "Kerastase",
+    "total_sales": 4,
+    "total_revenue": 3630
+  },
+  {
+    "manufacturer": "Matrix",
+    "total_sales": 4,
+    "total_revenue": 5000
+  }
+]

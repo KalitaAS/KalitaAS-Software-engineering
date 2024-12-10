@@ -1,0 +1,62 @@
+[
+  {
+    "category": "Шампуни",
+    "products_count": 4,
+    "avg_price": 610.0,
+    "total_stock": 310
+  },
+  {
+    "category": "Кондиционеры",
+    "products_count": 3,
+    "avg_price": 416.6666666666667,
+    "total_stock": 215
+  },
+  {
+    "category": "Маски для волос",
+    "products_count": 1,
+    "avg_price": 650.0,
+    "total_stock": 50
+  },
+  {
+    "category": "Сыворотки и масла",
+    "products_count": 3,
+    "avg_price": 820.0,
+    "total_stock": 105
+  },
+  {
+    "category": "Стайлинг",
+    "products_count": 4,
+    "avg_price": 445.0,
+    "total_stock": 225
+  },
+  {
+    "category": "Уход за кожей",
+    "products_count": 1,
+    "avg_price": 890.0,
+    "total_stock": 45
+  },
+  {
+    "category": "Специальный уход",
+    "products_count": 1,
+    "avg_price": 1200.0,
+    "total_stock": 30
+  },
+  {
+    "category": "Окрашивание",
+    "products_count": 1,
+    "avg_price": 750.0,
+    "total_stock": 40
+  },
+  {
+    "category": "Детские средства",
+    "products_count": 1,
+    "avg_price": 380.0,
+    "total_stock": 70
+  },
+  {
+    "category": "Лечебная серия",
+    "products_count": 1,
+    "avg_price": 980.0,
+    "total_stock": 25
+  }
+]

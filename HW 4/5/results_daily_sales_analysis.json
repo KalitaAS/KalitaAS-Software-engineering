@@ -1,0 +1,62 @@
+[
+  {
+    "sale_date": "2024-01-01",
+    "num_sales": 2,
+    "total_items_sold": 3,
+    "daily_revenue": 1550
+  },
+  {
+    "sale_date": "2024-01-02",
+    "num_sales": 2,
+    "total_items_sold": 5,
+    "daily_revenue": 2320
+  },
+  {
+    "sale_date": "2024-01-03",
+    "num_sales": 2,
+    "total_items_sold": 3,
+    "daily_revenue": 2160
+  },
+  {
+    "sale_date": "2024-01-04",
+    "num_sales": 2,
+    "total_items_sold": 3,
+    "daily_revenue": 2290
+  },
+  {
+    "sale_date": "2024-01-05",
+    "num_sales": 2,
+    "total_items_sold": 5,
+    "daily_revenue": 2580
+  },
+  {
+    "sale_date": "2024-01-06",
+    "num_sales": 2,
+    "total_items_sold": 5,
+    "daily_revenue": 3540
+  },
+  {
+    "sale_date": "2024-01-07",
+    "num_sales": 2,
+    "total_items_sold": 3,
+    "daily_revenue": 2060
+  },
+  {
+    "sale_date": "2024-01-08",
+    "num_sales": 2,
+    "total_items_sold": 3,
+    "daily_revenue": 1880
+  },
+  {
+    "sale_date": "2024-01-09",
+    "num_sales": 2,
+    "total_items_sold": 3,
+    "daily_revenue": 1730
+  },
+  {
+    "sale_date": "2024-01-10",
+    "num_sales": 2,
+    "total_items_sold": 3,
+    "daily_revenue": 1960
+  }
+]

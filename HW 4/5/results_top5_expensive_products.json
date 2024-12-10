@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Профессиональная маска",
+    "price": 1200,
+    "category": "Специальный уход",
+    "manufacturer": "L'Oreal"
+  },
+  {
+    "name": "Лечебный лосьон",
+    "price": 980,
+    "category": "Лечебная серия",
+    "manufacturer": "Matrix"
+  },
+  {
+    "name": "Маска для лица",
+    "price": 890,
+    "category": "Уход за кожей",
+    "manufacturer": "L'Oreal"
+  },
+  {
+    "name": "Масло для роста волос",
+    "price": 890,
+    "category": "Сыворотки и масла",
+    "manufacturer": "Pantene"
+  },
+  {
+    "name": "Восстанавливающий шампунь",
+    "price": 890,
+    "category": "Шампуни",
+    "manufacturer": "Matrix"
+  }
+]
