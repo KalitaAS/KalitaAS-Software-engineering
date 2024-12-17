@@ -1,0 +1,80 @@
+[
+    {
+        "column": "id",
+        "memory_usage_bytes": 12420,
+        "memory_percentage": 2310543243705.9424,
+        "dtype": "int16"
+    },
+    {
+        "column": "client_id",
+        "memory_usage_bytes": 12420,
+        "memory_percentage": 2310543243705.9424,
+        "dtype": "int16"
+    },
+    {
+        "column": "card_brand",
+        "memory_usage_bytes": 6700,
+        "memory_percentage": 1246428319873.576,
+        "dtype": "category"
+    },
+    {
+        "column": "card_type",
+        "memory_usage_bytes": 6579,
+        "memory_percentage": 1223918196484.8145,
+        "dtype": "category"
+    },
+    {
+        "column": "card_number",
+        "memory_usage_bytes": 49296,
+        "memory_percentage": 9170735889028.031,
+        "dtype": "int64"
+    },
+    {
+        "column": "expires",
+        "memory_usage_bytes": 37292,
+        "memory_percentage": 6937582821600.806,
+        "dtype": "category"
+    },
+    {
+        "column": "cvv",
+        "memory_usage_bytes": 12420,
+        "memory_percentage": 2310543243705.9424,
+        "dtype": "int16"
+    },
+    {
+        "column": "has_chip",
+        "memory_usage_bytes": 6501,
+        "memory_percentage": 1209407538432.555,
+        "dtype": "category"
+    },
+    {
+        "column": "num_cards_issued",
+        "memory_usage_bytes": 6274,
+        "memory_percentage": 1167177802818.9277,
+        "dtype": "int8"
+    },
+    {
+        "column": "credit_limit",
+        "memory_usage_bytes": 383692,
+        "memory_percentage": 71379787299840.61,
+        "dtype": "object"
+    },
+    {
+        "column": "acct_open_date",
+        "memory_usage_bytes": 40108,
+        "memory_percentage": 7461454784102.893,
+        "dtype": "category"
+    },
+    {
+        "column": "year_pin_last_changed",
+        "memory_usage_bytes": 12420,
+        "memory_percentage": 2310543243705.9424,
+        "dtype": "int16"
+    },
+    {
+        "column": "card_on_dark_web",
+        "memory_usage_bytes": 6441,
+        "memory_percentage": 1198245493776.9707,
+        "dtype": "category"
+    }
+]
